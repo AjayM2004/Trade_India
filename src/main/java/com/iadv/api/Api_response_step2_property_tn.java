@@ -2,7 +2,7 @@ package com.iadv.api;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
-import io.restassured.specification.RequestSpecification;
+import io.restassured.specification.RequestSpecification;//
 
 import javax.net.ssl.SSLContext;
 import javax.net.ssl.TrustManager;
